@@ -1,0 +1,4 @@
+$ git clone https://appy
+$ cd shop
+$ npm i
+$ npm start
